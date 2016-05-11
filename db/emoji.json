@@ -1,5 +1,15 @@
 [
   {
+    "emoji": "⚐"
+  , "description": "white flag"
+  , "aliases": [
+      "white_flag"
+    ]
+  , "tags": [
+      "flag"
+    ]
+  }
+, {
     "emoji": "😄"
   , "description": "smiling face with open mouth and smiling eyes"
   , "aliases": [
