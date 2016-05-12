@@ -1,5 +1,15 @@
 [
   {
+    "emoji": "🤖"
+  , "description": "robot face"
+  , "aliases": [
+      "robot_face"
+    ]
+  , "tags": [
+      "robot"
+    ]
+  },
+  {
     "emoji": "⚐"
   , "description": "white flag"
   , "aliases": [
