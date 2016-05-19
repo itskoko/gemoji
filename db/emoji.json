@@ -32,6 +32,18 @@
     ]
   }
 , {
+    "emoji": "🙂"
+  , "description": "slightly smiling face"
+  , "aliases": [
+      "slightly_smiling_face"
+    ]
+  , "tags": [
+      "happy"
+    , "joy"
+    , "pleased"
+    ]
+  }
+, {
     "emoji": "😃"
   , "description": "smiling face with open mouth"
   , "aliases": [
@@ -563,6 +575,24 @@
   , "description": "confused face"
   , "aliases": [
       "confused"
+    ]
+  , "tags": [
+    ]
+  }
+, {
+    "emoji": "🙁"
+  , "description": "sad face"
+  , "aliases": [
+      "sad_face"
+    ]
+  , "tags": [
+    ]
+  }
+, {
+    "emoji": "☹️"
+  , "description": "really sad face"
+  , "aliases": [
+      "really_sad_face"
     ]
   , "tags": [
     ]
