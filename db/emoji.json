@@ -2986,6 +2986,28 @@
     ]
   }
 , {
+    "emoji": "🌧"
+  , "description": "rainy cloud"
+  , "aliases": [
+      "rainy"
+    ]
+  , "tags": [
+      "weather"
+    , "rain"
+    ]
+  }
+, {
+    "emoji": "☀️"
+  , "description": "sun"
+  , "aliases": [
+      "sunny"
+    ]
+  , "tags": [
+      "weather"
+    , "sun"
+    ]
+  }
+, {
     "emoji": "☁️"
   , "description": "cloud"
   , "aliases": [
