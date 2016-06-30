@@ -32,6 +32,17 @@
     ]
   }
 , {
+    "emoji": "😐"
+  , "description": "neutral face"
+  , "aliases": [
+      "neutral"
+    ]
+  , "tags": [
+      "neutral"
+    , "ok"
+    ]
+  }
+, {
     "emoji": "🙂"
   , "description": "slightly smiling face"
   , "aliases": [
