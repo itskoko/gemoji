@@ -516,6 +516,15 @@
     ]
   }
 , {
+    "emoji": "🙁"
+  , "description": "slightly frowning face"
+  , "aliases": [
+      "slightly_frowning_face"
+    ]
+  , "tags": [
+    ]
+  }
+, {
     "emoji": "😧"
   , "description": "anguished face"
   , "aliases": [
